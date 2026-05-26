@@ -52,12 +52,12 @@ g++ pokemon.cpp -o pokemon
 
 **For Snake and Ladder:**
 ```bash
-g++ snakeandladdercpp.cpp -o snake
+g++ snakeandladder.cpp -o snake
 ./snake
 ```
 
 **For Tic-Tac-Toe:**
 ```bash
-g++ tictactoegamecpp.cpp -o tictactoe
+g++ tictactoegame.cpp -o tictactoe
 ./tictactoe
 ```
