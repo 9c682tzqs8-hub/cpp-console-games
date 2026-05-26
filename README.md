@@ -13,14 +13,14 @@ A turn-based battle simulator inspired by classic Pokémon games.
   * Health point (HP) tracking and randomized enemy AI moves.
   * Implemented using C++ Structs and Classes for organized entity management.
 
-### 2. Snake and Ladder (`snakeandladdercpp.cpp`)
+### 2. Snake and Ladder (`snakeandladder.cpp`)
 A digital recreation of the classic board game for two players.
 * **Features:**
   * Dice roll mechanics using `rand()`.
   * Grid navigation mapped via `std::map` for efficient ladder climbs and snake bites.
   * Exact-roll win conditions to reach square 100.
 
-### 3. Tic-Tac-Toe (`tictactoegamecpp.cpp`)
+### 3. Tic-Tac-Toe (`tictactoegame.cpp`)
 The timeless 3x3 grid game, completely playable in the terminal.
 * **Features:**
   * Two-player turn-based system.
